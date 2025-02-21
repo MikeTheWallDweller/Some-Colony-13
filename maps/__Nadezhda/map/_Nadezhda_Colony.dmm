@@ -113785,6 +113785,11 @@
 "vAx" = (
 /obj/machinery/light/floor,
 /obj/structure/table/bar_special,
+/obj/item/reagent_containers/food/snacks/sliceable/birthdaycake{
+	color = "#FFB6C1";
+	name = "warcake";
+	desc = "A tribute to a person of great importance"
+	},
 /turf/simulated/floor/carpet/bcarpet,
 /area/nadezhda/crew_quarters/bar)
 "vAy" = (
